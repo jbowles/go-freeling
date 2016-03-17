@@ -1,0 +1,112 @@
+{
+	"ImportPath": "github.com/jbowles/go-freeling",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v58",
+	"Deps": [
+		{
+			"ImportPath": "github.com/abiosoft/semaphore",
+			"Rev": "9e8892d1cf5b56ae0f766596f83776619865594a"
+		},
+		{
+			"ImportPath": "github.com/advancedlogic/GoOse",
+			"Rev": "9df1c62bade124335ec97d0d845391ee54631b6f"
+		},
+		{
+			"ImportPath": "github.com/advancedlogic/gojs-config",
+			"Rev": "bff36193fca8bd2f6269e8c4e8c723991fd20565"
+		},
+		{
+			"ImportPath": "github.com/advancedlogic/goquery",
+			"Comment": "v0.3.2-70-gaeb03ad",
+			"Rev": "aeb03ad57afc3c00f7c2422504d3bbd58e2326b4"
+		},
+		{
+			"ImportPath": "github.com/andybalholm/cascadia",
+			"Rev": "3ad29d1ad1c4f2023e355603324348cf1f4b2d48"
+		},
+		{
+			"ImportPath": "github.com/bjarneh/latinx",
+			"Rev": "4dfe9ba2a293f28a5e06fc7ffe56b1d71a47b8c8"
+		},
+		{
+			"ImportPath": "github.com/cheggaaa/pb",
+			"Comment": "go1.0-72-gc089c0e",
+			"Rev": "c089c0e183064d83038db7c2ae1b711fb2e747a4"
+		},
+		{
+			"ImportPath": "github.com/fatih/color",
+			"Comment": "v0.1-17-g533cd7f",
+			"Rev": "533cd7fd8a85905f67a1753afb4deddc85ea174f"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Rev": "acf3be1b335c8ce30b2c8d51300984666f0ceefa"
+		},
+		{
+			"ImportPath": "github.com/kdar/factorlog",
+			"Rev": "d5b6afb8b4fe1ee3fb6d99ba3a75781fa50a9f7c"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-colorable",
+			"Rev": "9cbef7c35391cca05f15f8181dc0b18bc9736dbb"
+		},
+		{
+			"ImportPath": "github.com/mattn/go-isatty",
+			"Rev": "56b76bdf51f7708750eac80fa38b952bb9f32639"
+		},
+		{
+			"ImportPath": "github.com/mgutz/ansi",
+			"Rev": "c286dcecd19ff979eeb73ea444e479b903f2cfcb"
+		},
+		{
+			"ImportPath": "github.com/nu7hatch/gouuid",
+			"Rev": "179d4d0c4d8d407a32af483c2354df1d2c91e6c3"
+		},
+		{
+			"ImportPath": "github.com/pelletier/go-buffruneio",
+			"Rev": "df1e16fde7fc330a0ca68167c23bf7ed6ac31d6d"
+		},
+		{
+			"ImportPath": "github.com/pelletier/go-toml",
+			"Comment": "v0.3.3-2-gd6a90e6",
+			"Rev": "d6a90e60edcdbd4e9abe88338d811d0cbb43d324"
+		},
+		{
+			"ImportPath": "github.com/petar/GoLLRB/llrb",
+			"Rev": "53be0d36a84c2a886ca057d34b6aa4468df9ccb4"
+		},
+		{
+			"ImportPath": "github.com/pmylund/go-cache",
+			"Rev": "1881a9bccb818787f68c52bfba648c6cf34c34fa"
+		},
+		{
+			"ImportPath": "github.com/rogpeppe/go-charset/charset",
+			"Rev": "e9ff06f347d3f5d0013d59ed83754f0e88de10d4"
+		},
+		{
+			"ImportPath": "github.com/satori/go.uuid",
+			"Rev": "e673fdd4dea8a7334adbbe7f57b7e4b00bdc5502"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Rev": "35b06af0720201bc2f326773a80767387544f8c4"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html/atom",
+			"Rev": "35b06af0720201bc2f326773a80767387544f8c4"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9d4e42a20653790449273b3c85e67d6d8bae6e2e"
+		},
+		{
+			"ImportPath": "gopkg.in/fatih/set.v0",
+			"Comment": "v0.1.0-3-g27c4092",
+			"Rev": "27c40922c40b43fe04554d8223a402af3ea333f3"
+		}
+	]
+}

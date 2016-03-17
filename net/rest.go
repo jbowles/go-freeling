@@ -7,9 +7,9 @@ import (
 
 	"github.com/gorilla/mux"
 
-	. "github.com/advancedlogic/go-freeling/engine"
-	"github.com/advancedlogic/go-freeling/models"
-	. "github.com/advancedlogic/go-freeling/terminal"
+	. "github.com/jbowles/go-freeling/engine"
+	"github.com/jbowles/go-freeling/models"
+	. "github.com/jbowles/go-freeling/terminal"
 )
 
 type HttpServer struct {

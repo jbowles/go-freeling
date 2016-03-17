@@ -7,8 +7,8 @@ import (
 
 	"github.com/cheggaaa/pb"
 
-	"github.com/advancedlogic/go-freeling/nlp"
-	. "github.com/advancedlogic/go-freeling/terminal"
+	"github.com/jbowles/go-freeling/nlp"
+	. "github.com/jbowles/go-freeling/terminal"
 )
 
 type Engine struct {

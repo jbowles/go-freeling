@@ -24,6 +24,6 @@ func NewDefaultCrawler() *Crawler {
 
 func (this *Crawler) Analyze(url string) *goose.Article {
 	g := goose.New()
-	article := g.ExtractFromUrl(url)
+	article, _ := g.ExtractFromURL(url)
 	return article
 }

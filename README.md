@@ -1,5 +1,9 @@
 # go-freeling
 
+http://localhost:9999/analyzer?url=https://www.reservationcounter.com/hotels/show/124363/caesars-palace/?check-in=&check-out=&random=864127
+
+http://localhost:9999/analyzer?url=https://www.expedia.com/Las-Vegas-Hotels-Caesars-Palace.h41245.Hotel-Information?rm1=a2&hwrqCacheKey=c85d363c-f662-4015-a56e-60c533e0c4f6HWRQ1458248342526&c=73e02088-fd27-45d2-b627-046d13551d17&&chkin=03%2F24%2F2016&chkout=03%2F25%2F2016
+
 **Natural Language Processing** in GO
 
 This is a partial port of Freeling 3.1 (http://nlp.lsi.upc.edu/freeling/).

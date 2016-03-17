@@ -6,8 +6,10 @@
 # Folders
 _obj
 _test
+data
 data/*.*
 freeling-data/*.*
+freeling-data
 
 # Architecture specific extensions/prefixes
 *.[568vq]
